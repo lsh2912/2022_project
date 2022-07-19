@@ -1,0 +1,3 @@
+INSERT INTO product VALUES('P0001', 'iPhone 13 pro', 1350000, '1334X750 Renina HD display, 8-megapixel iSight Camera', 'Smart Phone', 'Apple', 1000, 'new');
+INSERT INTO product VALUES('P0002', 'Macbook pro 13', 1790000, '13.3-inch, IPS LED display, 5rd Generation Intel Core processors', 'Notebook', 'Apple', 1000, 'new');
+INSERT INTO product VALUES('P0002', 'iPad pro', 999000, '212.8*125.6*6.6m, Super AMPLED display, Octa-core processor', 'Tablet', 'Apple', 1000, 'Exist');
